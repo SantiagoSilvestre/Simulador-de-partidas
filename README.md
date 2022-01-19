@@ -5,4 +5,7 @@ App Android nativa de simulação de partidas(Semana Dev Mobile Digital Inovatio
 1. Desenvolvimento Mobile Nativo Para Android
    - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/SantiagoSilvestre/Simulador-de-partidas/tree/desenvolvimento-mobile-nativo-para-android)
 
+2. Componentes, Lyouts e UI/UX em Apps Android
+   - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/SantiagoSilvestre/Simulador-de-partidas/tree/release/componentes-layout-ui-ux-em-apps-android)
+
 
