@@ -11,4 +11,7 @@ App Android nativa de simulação de partidas(Semana Dev Mobile Digital Inovatio
 3. Java e kotlin juntos!? Construindo Apps Android
    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/SantiagoSilvestre/Simulador-de-partidas/tree/release/java-e-kotlin-juntos-construindo-apps-android)
 
+4. Java e kotlin juntos!? Construindo Apps Android
+   - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/SantiagoSilvestre/Simulador-de-partidas/tree/release/explorando-o-firebase-para-apps-android-resilientes)
+
 
