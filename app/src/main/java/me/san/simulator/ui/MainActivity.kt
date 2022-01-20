@@ -1,7 +1,7 @@
-package me.san.simulator
+package me.san.simulator.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import me.san.simulator.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
